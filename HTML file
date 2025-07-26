@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Supporting Unpaid Carers</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f0f8f7;
+      color: #1e3c3a;
+      margin: 0;
+      padding: 0;
+    }
+    header, section {
+      padding: 2rem;
+      border-bottom: 1px solid #dbeeee;
+    }
+    header {
+      background-color: #d0ebe8;
+      text-align: center;
+    }
+    h1, h2 {
+      color: #006a67;
+    }
+    a {
+      color: #00797a;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .resource-links li {
+      margin-bottom: 0.5rem;
+    }
+    .needs-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    .needs-table th, .needs-table td {
+      border: 1px solid #b2d9d6;
+      padding: 0.75rem;
+      text-align: left;
+      background-color: #ffffff;
+    }
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .quick-links a {
+      background-color: #d0ebe8;
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      font-weight: bold;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🌿 Supporting Carers with Dignity and Insight</h1>
+    <p>A tribute and resource hub for Australia’s 3 million+ unpaid carers</p>
+  </header>
+
+  <section>
+    <h2>💛 Who Are Unpaid Carers?</h2>
+    <p>Unpaid carers are family, friends or neighbours offering support without formal compensation. They assist with daily tasks, provide emotional care, and navigate complex systems — often while working or parenting themselves.</p>
+    <blockquote>“Caring is not a one-size-fits-all experience.” — National Carer Strategy 2024–2034</blockquote>
+    <p>Explore <a href="https://www.carergateway.gov.au" target="_blank">Carer Gateway</a> for free support services.</p>
+  </section>
+
+  <section>
+    <h2>👩‍👧 Resources for Working Mums</h2>
+    <ul class="resource-links">
+      <li><a href="https://workingmumma.com.au">Working Mumma</a> – Confidence-building & return-to-work tips</li>
+      <li><a href="https://www.workathomemums.com.au">Work At Home Mums</a> – Flexible job ideas & support</li>
+      <li><a href="https://www.gidgetfoundation.org.au/fact-sheets/emotional-wellbeing-in-the-workplace-for-mums">Gidget Foundation</a> – Mental wellbeing tools</li>
+      <li><a href="http://www.careermatters.com.au/resources-for-mums.html">Career Matters</a> – Grants, childcare & career advice</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📚 Evidence-Based Insights</h2>
+    <table class="needs-table">
+      <thead>
+        <tr>
+          <th>Domain</th>
+          <th>Key Needs</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Physical Wellbeing</td>
+          <td>Respite care, sleep support, health checks</td>
+        </tr>
+        <tr>
+          <td>Mental Health</td>
+          <td>Counselling, peer support, trauma-informed design</td>
+        </tr>
+        <tr>
+          <td>Financial Security</td>
+          <td>Income support, flexible work, recognition</td>
+        </tr>
+        <tr>
+          <td>Social Inclusion</td>
+          <td>Community connection, cultural safety</td>
+        </tr>
+        <tr>
+          <td>Education & Advocacy</td>
+          <td>Training access, carer literacy, reform</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>See <a href="https://documents.uow.edu.au/content/groups/public/@web/@chsd/documents/doc/uow178839.pdf" target="_blank">Effective Caring Report – UOW</a> for international evidence synthesis.</p>
+  </section>
+
+  <section>
+    <h2>🔍 Australian Carer Research Highlights</h2>
+    <ul class="resource-links">
+      <li><a href="https://engage.dss.gov.au/wp-content/uploads/2024/10/Stage-1-rapid-scoping-review.pdf">National Carer Strategy Evidence Base</a> – Rapid review from AIFS</li>
+      <li><a href="https://www.carersaustralia.com.au/submissions-reports/research-reports/">Carer Wellbeing Survey</a> – Insights from 9,000 carers</li>
+      <li><a href="https://www.griffith.edu.au/__data/assets/pdf_file/0035/1438775/YC-Report-V2-DIGITAL-02112021.pdf">Young Carers Project – Griffith Uni</a></li>
+      <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/00049530.2024.2372266">Meta-ethnographic Review</a> – Youth carer experiences</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🧭 Quick Links</h2>
+    <div class="quick-links">
+      <a href="https://www.carergateway.gov.au" target="_blank">Carer Gateway</a>
+      <a href="https://www.dss.gov.au/supporting-carers/inquiry-recognition-unpaid-carers" target="_blank">Parliament Inquiry</a>
+      <a href="https://www.carersaustralia.com.au" target="_blank">Carers Australia</a>
+      <a href="https://ministers.dss.gov.au/media-releases/17081" target="_blank">National Strategy</a>
+    </div>
+  </section>
+
+  <section>
+    <h2>✨ Join the Movement</h2>
+    <p>Your voice matters. Whether you're a carer, policymaker, ally, or employer — help shape a more inclusive and supported future.</p>
+  </section>
+
+</body>
+</html>
