@@ -38,5 +38,5 @@ This webpage was created in under 3 hours to offer an evidence-based, accessible
 This project is Gemini-ready. Just copy the full HTML into your Gemini interface or host it using your preferred method. The code is fully standalone with no external dependencies.
 
 ---
-
+https://codepen.io/catherinedenavi/pen/YPyGqYL
 For next steps, I can help draft a licensing note, contribute a privacy disclaimer, or develop Beam-style onboarding blurbs for carers visiting the page for the first time. Let me know what you’d like to evolve next 🌱
